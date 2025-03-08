@@ -10,19 +10,6 @@ The **Personal Fitness Tracker** is a web application built with **Streamlit** t
 - **Calories Burned Calculation**: The app estimates the number of calories burned during various activities like running, swimming, cycling, etc.
 - **Water Intake Recommendation**: The app calculates the amount of water you should drink based on your weight and physical activity.
 - **Real-time Visualizations**: Interactive graphs are displayed to show calories burned vs. water intake and calories burned during different activities.
-
----
-
-## Table of Contents
-
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Technologies Used](#technologies-used)
-4. [Machine Learning Model](#machine-learning-model)
-5. [Future Improvements](#future-improvements)
-6. [License](#license)
-7. [Acknowledgements](#acknowledgements)
-
 ---
 Installation
 Prerequisites
@@ -30,6 +17,7 @@ To run this project locally, you need Python and pip installed. You also need to
 ->pip install streamlit numpy pandas scikit-learn matplotlib
 
  Running the App
+ 
 1.Clone this repository to your local machine:
 ->git clone https://github.com/pavanwithproject/-internship_project.git
 
