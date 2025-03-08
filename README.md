@@ -31,7 +31,7 @@ To run this project locally, you need Python and pip installed. You also need to
 
  Running the App
 1.Clone this repository to your local machine:
-->git clone https://github.com/yourusername/personal-fitness-tracker.git
+->git clone https://github.com/pavanwithproject/-internship_project.git
 
 2.Navigate into the project folder:
 ->cd personal-fitness-tracker
