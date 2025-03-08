@@ -24,31 +24,24 @@ The **Personal Fitness Tracker** is a web application built with **Streamlit** t
 7. [Acknowledgements](#acknowledgements)
 
 ---
-Step 1: Install Dependencies
-Make sure you have a requirements.txt file in your project directory that contains all the necessary libraries (like Streamlit, pandas, scikit-learn, etc.).
+Installation
+Prerequisites
+To run this project locally, you need Python and pip installed. You also need to install the following dependencies:
+->pip install streamlit numpy pandas scikit-learn matplotlib
 
-Install the dependencies using the following command:
-->pip install -r requirements.txt
-This will install all the libraries listed in the requirements.txt file.
+ Running the App
+1.Clone this repository to your local machine:
+->git clone https://github.com/yourusername/personal-fitness-tracker.git
 
-Step 2: Run the Streamlit App
+2.Navigate into the project folder:
+->cd personal-fitness-tracker
 
-Once the dependencies are installed, you can run the app by executing the following command:
+3.Run the Streamlit app:
 ->streamlit run app.py
-This will start the Streamlit server, and you should see output like:
 
-You can now view your Streamlit app in your browser.
+Open the app in your browser (Streamlit will provide a local link).
 
-  Network URL:  http://127.0.0.1:8501
-  External URL: http://<your-machine-ip>:8501
-
-Step 3: Access the App
-Once the app is running, open your browser.
-Go to http://localhost:8501.
-You should now see the Personal Fitness Tracker app running locally on your machine.
-
-Step 4: Interact with the App
+4. Interact with the App
 You can now interact with the app by:
-
 Entering your age, height, weight, activity time, etc.
 The app will calculate your BMI, fitness level, calories burned, water intake, and provide recommendations and visualizations.
